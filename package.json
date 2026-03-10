@@ -12,6 +12,15 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
-    "mysql2": "^3.19.0"
-  }
+    "mysql2": "^3.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/End3rlow/Cadastro-de-Alunos-1.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/End3rlow/Cadastro-de-Alunos-1/issues"
+  },
+  "homepage": "https://github.com/End3rlow/Cadastro-de-Alunos-1#readme"
 }
